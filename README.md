@@ -231,3 +231,9 @@ What I sent last time: "Thanks for your time today. I look forward to hearing fr
 ---
 
 Made by AI Made Simple. New prompts are added as new Shorts are published.
+
+## Slide decks (PDF)
+
+- [AI Made Simple prompt deck](decks/deck-prompts.pdf) — Slide deck of the AI Made Simple prompt library.
+- [Hype-r Report verdict deck](decks/deck-verdicts.pdf) — Slide deck of the Hype-r Report verdicts.
+- [Combined booklet](decks/booklet-combined.pdf) — Combined booklet of the two decks above.
