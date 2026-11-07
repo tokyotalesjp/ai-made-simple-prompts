@@ -1,0 +1,33 @@
+# P9 — Interview Thank-You Email
+
+Use it for: Send a specific, professional thank-you email within 24 hours
+
+From AI Made Simple — all prompts tested, outputs shown unedited.
+
+## Prompt (copy-paste)
+
+```text
+Write a thank-you email I can send within 24 hours after an interview for a Customer Support Representative job. Keep it under 120 words, not counting the subject line. Include: a clear subject line, "Dear [Interviewer's Name]," — then thank them, mention ONE specific topic from the interview (the interviewer said the team is moving more support from phone to chat) and connect it to my retail customer service experience, restate my interest in the role in ONE line, and sign off professionally as [Your Name] with [Phone number]. Do NOT invent company facts, awards, or numbers.
+
+What I sent last time: "Thanks for your time today. I look forward to hearing from you."
+```
+
+## Real AI output (unedited)
+
+Subject: Thank you — Customer Support Representative interview
+
+Dear [Interviewer's Name],
+
+Thank you for speaking with me today. I especially enjoyed hearing that your team is moving more support from phone to chat — that is exactly the kind of written communication I have been building toward in my retail role, where clear, patient answers solved most problems on the spot.
+
+Our conversation confirmed this is the right next step for me, and I would love to join the team.
+
+Best regards,
+[Your Name]
+[Phone number]
+
+## Watch the 60-second demo
+
+https://youtube.com/shorts/aE_LREVQv1s
+
+Tip: replace every `[bracket]` with your own true detail. Do not invent numbers.
