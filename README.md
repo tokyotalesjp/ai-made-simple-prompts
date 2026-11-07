@@ -237,3 +237,15 @@ Made by AI Made Simple. New prompts are added as new Shorts are published.
 - [AI Made Simple prompt deck](decks/deck-prompts.pdf) — Slide deck of the AI Made Simple prompt library.
 - [Hype-r Report verdict deck](decks/deck-verdicts.pdf) — Slide deck of the Hype-r Report verdicts.
 - [Combined booklet](decks/booklet-combined.pdf) — Combined booklet of the two decks above.
+
+## Prompt files
+
+- [P1 — Resume Bullets That Get Interviews](prompts/prompt-01-resume-bullets.md)
+- [P2 — Cover Letter Opening Paragraph](prompts/prompt-02-cover-letter.md)
+- [P3 — Tell Me About Yourself — 4-Sentence Formula](prompts/prompt-03-tell-me-about-yourself.md)
+- [P4 — STAR Interview Answer Rewrite](prompts/prompt-04-star-answer.md)
+- [P5 — Why Do You Want to Work Here?](prompts/prompt-05-why-this-company.md)
+- [P6 — 5 Smart Questions to Ask the Interviewer](prompts/prompt-06-questions-to-ask.md)
+- [P7 — What Is Your Greatest Weakness?](prompts/prompt-07-greatest-weakness.md)
+- [P8 — Why Are You Leaving Your Current Job?](prompts/prompt-08-why-leaving.md)
+- [P9 — Interview Thank-You Email](prompts/prompt-09-thank-you-email.md)
