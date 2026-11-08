@@ -249,3 +249,10 @@ Made by AI Made Simple. New prompts are added as new Shorts are published.
 - [P7 — What Is Your Greatest Weakness?](prompts/prompt-07-greatest-weakness.md)
 - [P8 — Why Are You Leaving Your Current Job?](prompts/prompt-08-why-leaving.md)
 - [P9 — Interview Thank-You Email](prompts/prompt-09-thank-you-email.md)
+
+## Machine-readable JSON
+
+Prefer to use these prompts programmatically? Every prompt in this library is also published as structured JSON — `id`, `title`, the full copy-paste `prompt`, the demo `video`, and the unedited `example_output` — in the [prompts-json/](prompts-json/) folder.
+One file per prompt: `p1-resume-bullets.json` through `p9-thank-you-email.json`.
+
+
