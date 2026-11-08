@@ -1,0 +1,7 @@
+{
+  "id": "P8",
+  "title": "Why Are You Leaving Your Current Job?",
+  "prompt": "Rewrite this answer to \"Why are you leaving your current job?\" The candidate works in retail customer service and is applying for a Customer Support Representative job (email and chat support). Rules: never badmouth the current employer, manager, pay, or coworkers. Be grateful for one specific thing I learned there. Then look forward: name what the new role offers that my current role does not, and connect it to my experience. Keep the answer under 80 words, in first person. Do NOT invent numbers or facts — use [brackets] where a detail needs to be filled in.\n\nMy answer now: \"My manager is terrible, the pay is bad, and there's no future there.\"",
+  "video": "https://youtube.com/shorts/L9wVtSZd8Xo",
+  "example_output": "I've learned a lot in my current role — especially how to listen to customers and stay calm when a problem is tense. But most of my work is face-to-face, and I want to build my career in written support, by email and chat, where I can help more customers in a day. This role is a step toward that, which is why I'm making the move now, on good terms with my current team."
+}

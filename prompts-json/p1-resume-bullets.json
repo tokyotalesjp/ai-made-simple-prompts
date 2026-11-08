@@ -1,0 +1,7 @@
+{
+  "id": "P1",
+  "title": "Resume Bullets That Get Interviews",
+  "prompt": "Here is a weak resume bullet from a retail sales associate: \"Responsible for helping customers and handling complaints.\" Rewrite it into 3 strong resume bullets. Use strong action verbs and results language, but do NOT invent numbers — use [brackets] as placeholders where a number would go.",
+  "video": "https://youtube.com/shorts/IAPrLhAjxlg",
+  "example_output": "1. Delivered personalized customer service by identifying customer needs, recommending relevant products, and resolving inquiries to enhance customer satisfaction and drive repeat business.\n2. Resolved customer complaints and escalated complex issues with professionalism and urgency, minimizing service disruptions and strengthening customer loyalty.\n3. Managed high-volume customer interactions while addressing product questions, processing requests, and resolving concerns, contributing to improved service efficiency and achievement of [sales/service targets]."
+}
